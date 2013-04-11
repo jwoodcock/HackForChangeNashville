@@ -1,0 +1,15 @@
+Meeting Notes from conference call on April 9th, 2013:
+(Jacques Woodcock and his firstborn son, Amber Adams, John Chobanian, Andrew Hogin, David Thorpe)
+
+1) Vendor portal for contract bidding. As noted on the one-sheet, another state has saved $3M by implementing a more efficient, online process for advertising, receiving, and processing vendor contracts. State procurement is interested in pursuing this.
+
+2) tn.gov/maps is currently ESRI-based, does not have enough interactivity with available datasets. Childcare, traffic stops, and other real-time crime notification maps were discussed as potential opportunities to develop map data. 3rd party vendors handle some of this data, however, and legacy proprietary systems could be a challenging in accessing the State data. The crime maps may require coordination with local governments instead of the State.
+
+3) The Haslam administration is interested in developing a single portal to guide entrepreneurs and other small business owners through the necessary paperwork and regulations applicable to their companies. This could be launched on a CMS with a simple form to continue to expand resources on the site beyond the event.
+
+4) The State codes businesses of common type state-wide and might like to publish this data in a form more easily accessible to other businesses and clients. There is a fear that publishing the data might invite poaching from other states. 
+
+(Editor's Note: There is potential for #3 and #4 to be combined. The entrepreneur's portal could expedite business creation while #4 could facilitate networking among Tennessee businesses to create more efficient vendor relationships. Ex: Tennessee entrepreneurs hiring out-of-state developers because they're not aware of what's here. If the business creation portal also has a listing of local vendors, perhaps with reputation scoring among listed businesses, new companies may investigate required vendors from the portal...which could also lead back to #1 as the portal becomes a vendor bidding system. The competition of the system could just as easily be designed for cooperation.)
+
+The State expressed interest in learning what open source technologies we may want to use. We spoke briefly about our venue selection, and our intentions to reach out to local business organizations such as the Entrepreneur Center and the Chamber. We discussed holding a pitch night to propose and vet project ideas with the local Hack4Change community, including everyone interested from the State. We will continue to coordinate to "build something cool."
+
