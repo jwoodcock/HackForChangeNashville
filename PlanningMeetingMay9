@@ -1,0 +1,82 @@
+Nashville Hack For Change Planning Meeting - May 9th, 2013
+
+Objectives: 
+
+1. Identify projects we would like to work on
+2. Identify State & local resources to use as a basis for our work
+3. Identify products we could hand back to the State & local government that would serve their needs, encourage a relationship of open data and open government going forward.
+
+Project Ideas:
+1. Autism apps & services
+Abe Music - nonprofit (Dr. Amber Music):
+Rate of austism diagnosis is skyrocketing. 5-8 years for diagnosis, 8 months to see a doctor, one to two year waiting lists for therapy. She provides therapy and trains parents, teachers on how to cope with autism. Scheduling wide variety of consultations with time demands (40-50 hours a week) while providing consistency of care is a nightmare. Resource coordinators are very expensive and hard to come by. An application might be able to provide this service more easily and less expensively, they could bring it in as app on their iPad. Needs a treatment log and a calendar. HIPAA applies, needs a confidentially notice and a digital signature to consent to providing info. Graphing data on efficacy of sessions for accountability reporting to parents. Distribute to schools, parent support groups, easy to distribute to market. Give the app away for free, within the app, therapists would like to advertise.
+Jacques: going into the weekend, think about your screens (what info are you tracking?), and talk to peers (determine what price they would be comfortable paying)
+State has a department of developmental disability, they might be interested in supporting State-wide, they don't have extra funding.
+
+This project has strong community interest.
+
+2. Mobile ID
+
+Make a digital driver's license. State is going through an overhaul of the driver's license system. We could probably execute some framework, but it's probably not practical and/or legal.
+
+3. Leftovers for Life
+
+Make an app to identify food waste (events, restaurants, grocery stores) to redistribute to shelters.
+Jacques: not all shelters take secondhand food, there is a health codes issue
+Will: system of give ten bucks to a restaurant, the next guy who comes in who needs a meal, give them the credit
+Jacques: some people are already doing that, there are new initiatives coming out to eliminate food waste from grocery stores, unified "buy a meal" system would be a cool idea
+Chuck: use social networks to coordinate redistributing leftovers
+Jason: Contacting organizations like Meals on Wheels to ask what their needs are
+Amber Music: Coordinate with all the urban gardening that is going on
+Amber Adams: Develop a mapping system to identify the surplus land available for charity gardening required to be disclosed by the Commissioner of Agriculture (State says they have a list of this property now, didn't a year ago)
+Brandon: Logistics app for coordinating Meals on Wheels
+David: Donor portal (through HON?) to coordinate non-perishable donations
+
+4. Local Says
+
+Mobile-friendly questionaires (non-voting) to poll public opinion. There are a lot of these already, HellaBird at HackNashville, integrate it with Twitter (this is done by CaretTools.com, also from HackNashville)
+
+5. Vendor Portal (RFP Management) 
+
+(covered by Apr 9th notes)
+
+other hack events (such as Texas) have done this already, might be able to shorten the curve by using their work
+
+6. tn.gov/maps
+
+mobile, more datasets
+
+Metro maps for greenways and bike paths could be improved (Planning might have the dataset?): Nash Vitality
+
+(covered by Apr 9th prior notes)
+
+7. Entrepreneur Portal
+
+(covered by Apr 9th prior notes)
+
+this will require coordination between State and local in order to be effective
+
+8. Business Codes Directory
+
+(covered by Apr 9thprior notes)
+
+This could be easy, doable. Would provide a Buy Local directory of Tennessee businesses. Governor Haslam is all about JOBS, JOBS, JOBS, so anything we could do to encourage job creation in Tennessee would be welcomed in terms of coordinating with the State.
+
+9. Jacques proposes integrating Yelp with restaurant health ratings
+
+State: Health department is in the middle of changing their health code, but the process will be the same, two departments that rate them and some of it is outsourced to the cities, private company handles the frontend, State might be building a health ratings app.
+
+10. William: extend the Amber alert system, report missing persons on a map (See Something, Say Something)
+
+Amber Adams: We would need to coordinate with the TBI, their system is very simple so that could be a strength in terms of tying into it, but submitting reports typically requires training and isn't open to the public (reports placed with the hotline must still be entered by trained personnel).
+
+11. David: medicaid database of procedure costs has been released, there are huge cost discrepancies, would be interesting to analyze this data and make it more user-friendly to view by citizens.  
+Jacques: Health Blue Book, Stratasan, could be resources
+
+Miscellaneous:
+
+Proposal to form an official Code for Change Brigade for on-going (monthly user group) work on civic hacking was submitted to the group. Applications for Brigades open about once a quarter and the current deadline is May 17th. Benefits include sponsorship for events (both monthly and annually, such as Hack For Change), free educational resources, free hosting, branding materials, etc. Several people expressed interest directly but the group did not affirm the decision. We decided to wait until after Hack For Change to gauge community interest further and decide if we want to continue with a group. 
+
+The Hack For Change organizers will evaluate the ideas and choose the top three that require State coordination, gives option to participants to work on whatever they want at the event whether it is a State project or a community proposal.
+
+
